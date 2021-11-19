@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "ws1",
+    "examples",
+    "main",
+]

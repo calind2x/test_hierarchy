@@ -1,0 +1,12 @@
+[package]
+name = "examples"
+version = "0.0.0"
+publish = false
+edition = "2018"
+
+[dependencies]
+ws1 = { path = "../ws1" }
+
+[[example]]
+name = "example_1"
+path = "example_1.rs"
